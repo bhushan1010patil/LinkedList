@@ -1,0 +1,15 @@
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/bin/Debug/net8.0/SingleLL
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/bin/Debug/net8.0/SingleLL.deps.json
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/bin/Debug/net8.0/SingleLL.runtimeconfig.json
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/bin/Debug/net8.0/SingleLL.dll
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/bin/Debug/net8.0/SingleLL.pdb
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.AssemblyInfoInputs.cache
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.AssemblyInfo.cs
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.csproj.CoreCompileInputs.cache
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.sourcelink.json
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.dll
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/refint/SingleLL.dll
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.pdb
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/SingleLL.genruntimeconfig.cache
+/home/bhushan/Desktop/DotNet/LinkedList/SingleLL/obj/Debug/net8.0/ref/SingleLL.dll
